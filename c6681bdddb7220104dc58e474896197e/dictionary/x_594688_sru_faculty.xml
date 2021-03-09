@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="faculty" max_length="40" name="x_594688_sru_faculty" type="collection">
+        <element label="contact" max_length="40" name="contact" type="phone_number_e164"/>
+        <element label="department" max_length="40" name="department" type="string"/>
+        <element label="faculty name" max_length="40" name="faculty_name" type="string"/>
+        <element label="facutly id" max_length="40" name="facutly_id" type="string"/>
+    </element>
+</database>
